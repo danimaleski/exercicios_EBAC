@@ -9,3 +9,6 @@ Exercícios de clone no GitHub
 
 Exercícios de Cypress I
 * https://github.com/danimaleski/teste_ebac_ui
+
+Exercícios Seletores com Cypress
+* https://github.com/danimaleski/seletores-cy_ebac
