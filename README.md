@@ -6,3 +6,6 @@ Exercícios com Gherkin (possibilidades de cenários)
 
 Exercícios de clone no GitHub
 * https://github.com/danimaleski/aula-git-ebac
+
+Exercícios de Cypress I
+* https://github.com/danimaleski/teste_ebac_ui
