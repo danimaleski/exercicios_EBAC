@@ -12,3 +12,6 @@ Exercícios de Cypress I
 
 Exercícios Seletores com Cypress
 * https://github.com/danimaleski/seletores-cy_ebac
+
+Exercícios de API e Contrato
+* https://github.com/danimaleski/testes_api_ebac
