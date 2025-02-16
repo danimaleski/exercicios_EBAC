@@ -23,3 +23,17 @@ Exercícios de API e Contrato
 Exercícios de automatização de API REST com Cypress
 * https://github.com/danimaleski/api-cypress
 * https://github.com/danimaleski/aulas_api_cypress
+
+Exercícios de Mobile
+* https://github.com/danimaleski/ebac_testes_mobile
+
+Exercícios de Performance
+* https://github.com/danimaleski/performance-ebac
+
+Exercícios sobre Javascript
+* https://github.com/danimaleski/javascript_aulas
+
+Exercícios de Testes de Unidade
+* https://github.com/danimaleski/tdd_jest
+* 
+
