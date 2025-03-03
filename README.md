@@ -29,6 +29,7 @@ Exercícios de Mobile
 
 Exercícios de Performance
 * https://github.com/danimaleski/performance-ebac
+* https://github.com/danimaleski/performance_aulasEbac
 
 Exercícios sobre Javascript
 * https://github.com/danimaleski/javascript_aulas
