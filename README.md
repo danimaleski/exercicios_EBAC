@@ -37,4 +37,9 @@ Exercícios sobre Javascript
 Exercícios de Testes de Unidade
 * https://github.com/danimaleski/tdd_jest
 * https://github.com/danimaleski/testingDoubles_ebac
+* https://github.com/danimaleski/testes_componentes_cypress
+* https://github.com/danimaleski/testes-reactive-native-com-jest-ebac
+
+Exercícios de Automação de UI com Cypress
+* https://github.com/danimaleski/ebac_uiTestingPaterns_PageObjects
 
