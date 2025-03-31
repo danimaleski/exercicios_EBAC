@@ -42,4 +42,7 @@ Exercícios de Testes de Unidade
 
 Exercícios de Automação de UI com Cypress
 * https://github.com/danimaleski/ebac_uiTestingPaterns_PageObjects
+* https://github.com/danimaleski/ebac_uiTestingPaterns_AppActions
+* https://github.com/danimaleski/ebac_uiBDDTestingPaterns
+* https://github.com/danimaleski/ebac_cyDicas
 
