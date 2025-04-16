@@ -40,9 +40,13 @@ Exercícios de Testes de Unidade
 * https://github.com/danimaleski/testes_componentes_cypress
 * https://github.com/danimaleski/testes-reactive-native-com-jest-ebac
 
-Exercícios de Automação de UI com Cypress
+Exercícios de Automação de UI com Cypress I
 * https://github.com/danimaleski/ebac_uiTestingPaterns_PageObjects
 * https://github.com/danimaleski/ebac_uiTestingPaterns_AppActions
 * https://github.com/danimaleski/ebac_uiBDDTestingPaterns
 * https://github.com/danimaleski/ebac_cyDicas
 
+Exercícios de Automação de UI com Cypress II
+* https://github.com/danimaleski/intercept_ebacCypress
+* https://github.com/danimaleski/variaveis_ambiente_ebac
+* https://github.com/danimaleski/validacoesDinamicas_ebac
