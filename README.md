@@ -58,7 +58,7 @@ Exercícios de Automação de UI com Cypress II (Módulo 23)
 * https://github.com/danimaleski/regressaoVisual_CypressEbac
 * https://github.com/danimaleski/relatorios_ebac_cypress
 
-Exercício de (Módulo 24)
+Exercício de GraphQL e PactumJS (Módulo 24)
 * https://github.com/danimaleski/exerc_pactumjs
 * https://github.com/danimaleski/contratoTestes_Pactumjs
 * https://github.com/danimaleski/apirest_pactumjs
