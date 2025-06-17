@@ -42,14 +42,14 @@ Exercícios de Testes de Unidade (Módulo 21)
 * https://github.com/danimaleski/testingDoubles_ebac
 * https://github.com/danimaleski/testes_componentes_cypress
 * https://github.com/danimaleski/testes-reactive-native-com-jest-ebac
-* exercicio
+* https://github.com/danimaleski/javascript_aulas/tree/exer-test-unidades
 
 Exercícios de Automação de UI com Cypress I (Módulo 22)
 * https://github.com/danimaleski/ebac_uiTestingPaterns_PageObjects
 * https://github.com/danimaleski/ebac_uiTestingPaterns_AppActions
 * https://github.com/danimaleski/ebac_uiBDDTestingPaterns
 * https://github.com/danimaleski/ebac_cyDicas
-* https://github.com/danimaleski/exerc-ebac-cypressI
+* https://github.com/danimaleski/exerc-ebac-cypressI/tree/main - exercicioCypressITest
 
 Exercícios de Automação de UI com Cypress II (Módulo 23)
 * https://github.com/danimaleski/intercept_ebacCypress
@@ -57,9 +57,17 @@ Exercícios de Automação de UI com Cypress II (Módulo 23)
 * https://github.com/danimaleski/validacoesDinamicas_ebac
 * https://github.com/danimaleski/regressaoVisual_CypressEbac
 * https://github.com/danimaleski/relatorios_ebac_cypress
+* https://github.com/danimaleski/exerc-ebac-cypressI/tree/main - exercicioInterceptTest
 
 Exercício de GraphQL e PactumJS (Módulo 24)
 * https://github.com/danimaleski/exerc_pactumjs
 * https://github.com/danimaleski/contratoTestes_Pactumjs
 * https://github.com/danimaleski/apirest_pactumjs
 * https://github.com/danimaleski/graphql_pactumJS
+
+Exercício de Testes de Integração (Módulo 26)
+* 
+
+Exercício de Docker for Testers (Módulo 27)
+* https://github.com/danimaleski/exerc-ebac-cypressI/tree/docker
+* https://hub.docker.com/r/danimaleski17/ebac-cypress
