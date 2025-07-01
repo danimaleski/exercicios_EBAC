@@ -66,7 +66,8 @@ Exercício de GraphQL e PactumJS (Módulo 24)
 * https://github.com/danimaleski/graphql_pactumJS
 
 Exercício de Testes de Integração (Módulo 26)
-* 
+* https://github.com/danimaleski/exerc-ebac-cypressI/tree/ci - exercício GitHub Actions e Pages
+* https://github.com/danimaleski/exerc_pactumjs/tree/ci_24 - exercício GitHub Actions e Pages
 
 Exercício de Docker for Testers (Módulo 27)
 * https://github.com/danimaleski/exerc-ebac-cypressI/tree/docker
